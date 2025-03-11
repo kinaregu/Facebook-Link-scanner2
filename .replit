@@ -1,0 +1,8 @@
+{
+  "run": "npm run dev",
+  "language": "nodejs",
+  "startCommand": "npm run dev",
+  "onBoot": "npm install",
+  "entrypoint": "app/page.tsx"
+}
+

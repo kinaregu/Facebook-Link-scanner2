@@ -7,7 +7,7 @@ import { ThemeProvider } from "@/context/theme-context"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Real-Time Link Scanner",
+  title: "Facebook Link Scanner",
   description: "Scan and analyze links for potential threats in real-time",
     generator: 'v0.dev'
 }
